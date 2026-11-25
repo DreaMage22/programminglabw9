@@ -18,6 +18,7 @@ public class Main {
         myTeam.addCharacter(lucy);
         
         
+        
         myTeam.addCharacter(new Warrior("Arthur", 5, 100, 5));
         
         myTeam.displayTeam();
